@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Split The Bill</string>
+    <string name="title">Split The Bill!</string>
+    <string name="numberPrompt">Party Size</string>
+    <string name="qualitySpinnerPrompt">How was your service?</string>
+    <string name="welcomeButton">Click Here</string>
+    <string name="billRequest">Bill Amount</string>
+
+    <string-array name="qualityGroup">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="calculateBtn">Calculate</string>
+
+</resources>
